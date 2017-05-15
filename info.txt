@@ -1,0 +1,9 @@
+libs which I use here :
+pip:
+- selenium
+- webdriver manager (pirogov)
+- pytest
+-
+
+
+Git : how to generate ssh key - in git bash use this command -  ssh-keygen
