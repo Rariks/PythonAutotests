@@ -3,7 +3,7 @@ pip:
 - selenium
 - webdriver manager (pirogov)
 - pytest
--
+- without selene
 
 
 Git : how to generate ssh key - in git bash use this command -  ssh-keygen
